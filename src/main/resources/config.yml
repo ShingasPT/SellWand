@@ -1,0 +1,16 @@
+SellWand:
+  wandItem:
+    type: BLAZE_ROD
+    name: <gold>Sellwand
+    lore:
+      - '' #Empty line
+      - <gray>Sell your items by
+      - <gray>right clicking a chest!
+  #Example of Sold Items
+  items:
+    #Pricing:
+    #  - item
+    #  - ...
+    100:
+      - STICK
+      - COBBLESTONE

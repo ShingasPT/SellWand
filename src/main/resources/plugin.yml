@@ -1,0 +1,8 @@
+name: Sellwand
+version: '${version}'
+main: me.shingaspt.sellwand.Plugin
+api-version: 1.19
+prefix: Sellwand
+authors: [ ShingasPT ]
+description: Simple Sellwand
+website: https://github.com/ShingasPT/Sellwand
